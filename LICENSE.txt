@@ -1,0 +1,12 @@
+Range One
+Copyright (c) 2026 nobluez. All rights reserved.
+
+Range One (the game's code, its page, and everything else made for it) is
+not open source and is not in the public domain. No one may copy, share,
+change, sell or publish it, in whole or in part, without written
+permission from nobluez.
+
+Range One uses one thing made by other people: the three.js 3D engine,
+under the MIT license, which allows use in a game like this one. It
+remains the work of its authors and is listed in THIRD-PARTY-NOTICES.txt.
+Nothing in this notice applies to it.
